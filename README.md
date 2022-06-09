@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://github.com/Dzaky0/bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dzaky0&repo=bot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
   <a href="https://github.com/Dzaky0/botwa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dzaky0&repo=botwa&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></br>
-  <a href="https://github.com/Dzaky0/ryanz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dzaky0&repo=ryanz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
+  <a href="https://github.com/Dzaky0/ryanz"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dzaky0&repo=Rdp-Free&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true&show_owner=true&disable_animations=false" /></a>
 </p>
 
 <h3 align="left">Github Stats</h3>
